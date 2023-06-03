@@ -13,7 +13,7 @@ If you use this library for any academic work, please cite our original [paper](
   author    = {Shuai},
   title     = {{One-minute to calibrate multi-lidar-camera system}},
   journal   = {},
-  pages     = {1029--1036},
+  pages     = {},
   doi       = {},
   volume    = {},
   number    = {},
